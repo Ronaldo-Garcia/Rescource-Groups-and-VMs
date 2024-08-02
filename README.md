@@ -10,6 +10,15 @@ Azure is a cloud computing platform and an online portal that allows you to acce
 - Computer with Internet Connection
 - Credit Card (Required for free Azure credits)
 
+<h2>High-Level Steps</h2>
+
+1. **Create an Azure Account**: Register for an Azure account and receive $200 in credits to get started.
+2. **Create a Resource Group**: Set up a resource group by naming it and selecting a region.
+3. **Create a Storage Account**: Within the resource group, create a storage account with a unique name.
+4. **Create a Virtual Machine**: Use the resource group to set up a virtual machine, specifying the necessary configurations.
+5. **Connect to the Virtual Machine**: Access your virtual machine using the public IP address through Remote Desktop tools.
+- Clean up, and delete Resource Groups in Azure
+
 <h2>Configuration Steps</h2>
 
 
